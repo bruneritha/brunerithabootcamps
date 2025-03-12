@@ -1,0 +1,22 @@
+import java.util.*
+classproduct{
+string productname,cart;
+system.out.print("enter the productname:");
+system.out.println("1: choose the product name");
+system.out.println("2: choose the cart");
+system.out.println("3:choose the quantity")
+switch(choose);
+public static voidmain{
+while(productname==1){
+cas 1:
+system.out.print("the product name:");
+break;
+case 2:
+system.out.print("the cart:");
+break;
+case3:
+system.out.print("enter the quantity:");
+break;}
+else
+default;
+system.out.print("invalid productname:");}}
