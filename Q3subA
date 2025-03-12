@@ -1,0 +1,14 @@
+import java.util.*
+class shopproduct{
+public static voidmain(string[]args){
+int price,quantity;
+string productname;
+scanner sc = new scanner(system.in);
+system.out.print("enter the price of product:");
+int price =sc.nextline();
+system.out.print("enter the quantity of product:");
+int quantity = sc.nextint();
+system.ou.print("enter the product name:");
+string productname = sc.newline();
+for(i=0;i<price;i++){
+system.out.print("display the product to the cart:");}}}
