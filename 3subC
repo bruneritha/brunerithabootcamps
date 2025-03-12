@@ -1,0 +1,11 @@
+import java.util.*
+classgetcarttotal{
+public static voidmain(string[]args){
+int price,total;
+system.out.pint("enter the productname:");
+scanner sc=new scanner(system.in);
+system.out.print("enter the price:");
+int price=sc.nextInt();
+for(i=0;i<price;i++){
+total=price*product;
+{system.out.print("the total of all item is:"+total);}}}}
