@@ -1,0 +1,15 @@
+import java.util.*
+classemployees{
+public static voidmain(string[]args){
+int employees,threshold;
+system.out.print("enter the information of employee:");
+scanner sc=new scanner(system.in);
+system.out.print("enter the employees is:");
+int employees=sc.nextInt();
+system.out.print("enter the threshold:");
+int threshold=sc.nextint();
+{
+int result=sc.nextInt();
+system.out.print("enter the rsesult:");
+}
+system.out.print("the result is:"+reslt);}}
