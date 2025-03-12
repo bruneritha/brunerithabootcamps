@@ -1,0 +1,11 @@
+import java.util.*
+classtotalrevenue{
+public static voidmain(string[]args){
+int totalrevenue;
+scanner sc =new scanner (system.in)
+system.out.print("enter the total revenue:");
+int totalrevenue = sc.nextint();
+for(i=0;i.=totalrevenue;i++)
+{
+totalrevenue+=total\num}
+system.out.print(" the result is:"+ total);}}
