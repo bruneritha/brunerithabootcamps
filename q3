@@ -1,0 +1,14 @@
+'import java.util.*
+classapplaybulkdiscount{
+public satic voidmain(string[]args){
+int discountpercentage;
+system.out.print("enter the number of tickets:");
+scanner sc=new scanner(system.in);
+system.out.print("enter the discount percentage:"); 
+int discountpercentage=sc.nextint();
+for(i=o;i<discountpercentage;i++){
+system.out.print("the discount is:");
+}
+int result=sc.nextint();
+system.out.print("the result is:"+result);
+}}
