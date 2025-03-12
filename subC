@@ -1,0 +1,11 @@
+import java.util.*
+classperformer{
+public static voidmain(string[]args){
+int score;
+scanner sc= new scanner(system.int);
+system.out.print("enter the score performance:");
+int score=sc.nextInt();
+for(i=0;i<score;i++){
+system.out.print(arr[i]" ")}
+for(i=0;i<=score;i++){
+system.out.print("the score performance of employees is:"+ arr[i])}}}
