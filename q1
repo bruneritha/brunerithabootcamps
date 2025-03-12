@@ -1,0 +1,21 @@
+import java.util.*
+classaverage{
+public static voidmain(string[]args}{
+double average;
+int sum,num;
+system.out.print("enter the number:");
+scanner sc=new scanner(system.in);
+system.out.print("enter the sum of number:");
+int sum=sc.nextInt();
+system.out.print("enter the average of number:");
+double average=sc.nextDouble();
+for(i=0;i<sum;i++)
+{
+sum=sum+i;}
+system.out.print("the sum is:"+ sum);
+int count{
+count++;}
+average=sum\count{
+system.out.print("the average is:"+ average);}}}
+
+
